@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryReaderWriter", "BinaryReaderWriter\BinaryReaderWriter.csproj", "{79EA67C2-5863-49EE-9CDA-4D0404F873C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79EA67C2-5863-49EE-9CDA-4D0404F873C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79EA67C2-5863-49EE-9CDA-4D0404F873C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79EA67C2-5863-49EE-9CDA-4D0404F873C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79EA67C2-5863-49EE-9CDA-4D0404F873C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F2A0634-D06A-4D2E-BC63-83FCCF853C37}
+	EndGlobalSection
+EndGlobal
